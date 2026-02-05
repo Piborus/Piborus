@@ -19,17 +19,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <div align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?login=Piborus" height="160"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piborus&theme=tokyonight" height="160"/>
+<img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-Framework-brightgreen?style=for-the-badge&logo=spring"/>
+<img src="https://img.shields.io/badge/Quarkus-Reactive-blue?style=for-the-badge&logo=quarkus"/>
+<img src="https://img.shields.io/badge/REST%20API-Architecture-lightgrey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reactive-Programming-success?style=for-the-badge"/>
+
 </div>
 
 ---
-
-
 
 ### 🛠️ Tecnologias
 
