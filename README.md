@@ -1,25 +1,85 @@
-### Olá mundo! Eu sou Haroldo Morais 👋
+<h1 align="center">👋 Olá, eu sou Haroldo Morais</h1>
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Java
-- 📫 Contate-me no email: haroldomorais92@gmail.com
-- 😄 Pronouns: ele/dele
+<h3 align="center">Back-end Developer • Java • Spring Boot • Quarkus</h3>
 
-<div>
-  <a href= "https://beacons.ai/Piborus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piborus&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piborus&layout=compact&langs_count=16&theme=dark"/>    
+<p align="center">
+  Desenvolvedor back-end focado em Java e construção de APIs.<br>
+  Atualmente estudando e praticando arquitetura REST e programação reativa.
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+- 🔭 Atuando como desenvolvedor **Back-end**
+- 🌱 Estudando **Java, Spring Boot, Quarkus e arquitetura REST/reativa**
+- 🧠 Interessado em **sistemas reativos e mensageria**
+- 📫 Email: **haroldomorais92@gmail.com**
+- 😄 Pronomes: **ele/dele**
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Piborus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piborus&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Haroldo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Haroldo-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Haroldo-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+---
+
+### 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+
 </div>
 
-##
+---
 
-<div>
-  <a href="https://www.linkedin.com/in/haroldo-morais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "haroldomorais92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### 🏷️ Especialidades
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Reactive-6DB33F?style=for-the-badge&logo=reactivex&logoColor=white"/>
+
+</div>
+
+---
+
+### 🌐 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/haroldo-morais/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:haroldomorais92@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 🐍 Contribuições
+
+![Snake animation](https://github.com/Piborus/Piborus/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+✨ *“Sempre aprendendo e evoluindo um commit por vez.”*
+
 </div>
