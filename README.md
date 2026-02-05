@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=Piborus" height="160"/>
 
-  <img src="https://stats.dooboo.io/api/github-langs?login=Piborus" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piborus&theme=tokyonight" height="160"/>
 </div>
 
 ---
