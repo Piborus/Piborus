@@ -13,7 +13,7 @@
 
 - 🔭 Atuando como desenvolvedor **Back-end**
 - 🌱 Estudando **Java, Spring Boot, Quarkus e arquitetura REST/reativa**
-- 🧠 Interessado em **sistemas reativos e mensageria**
+- 🧠 Interessado em **desenvolvimento de APIs e soluções backend**
 - 📫 Email: **haroldomorais92@gmail.com**
 - 😄 Pronomes: **ele/dele**
 
