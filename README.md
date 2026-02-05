@@ -19,20 +19,6 @@
 
 ---
 
-### 📊 GitHub
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-Framework-brightgreen?style=for-the-badge&logo=spring"/>
-<img src="https://img.shields.io/badge/Quarkus-Reactive-blue?style=for-the-badge&logo=quarkus"/>
-<img src="https://img.shields.io/badge/REST%20API-Architecture-lightgrey?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reactive-Programming-success?style=for-the-badge"/>
-
-</div>
-
----
-
 ### 🛠️ Tecnologias
 
 <div align="center">
